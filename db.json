@@ -2,15 +2,18 @@
   "todos": [
     {
       "id": 1,
-      "text": "foo"
+      "text": "foo",
+      "active": false
     },
     {
       "id": 2,
-      "text": "bar"
+      "text": "bar",
+      "active": false
     },
     {
       "id": 3,
-      "text": "foo-bar"
+      "text": "foo-bar",
+      "active": true
     }
   ]
 }
